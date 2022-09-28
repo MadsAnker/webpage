@@ -45,7 +45,7 @@ mkdir webworkshop && cd webworkshop
 
 Now, you can start the development server using:
 {% highlight bash %}
-docker run -v "$PWD:/var/www/html" php:8.1.10-apache
+docker run -v "$PWD:/var/www/html" -p 80:80 php:8.1.10-apache
 {% endhighlight %}
 It'll take a while the first time since it has to download the PHP Docker image.
 
