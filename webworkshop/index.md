@@ -67,4 +67,4 @@ We will start by implementing the user interface using HTML, then we will add so
 Then, we will implement the logic running on the server of our application using PHP and lastly implement the "hint" feature using PHP and JavaScript in conjunction.
 
 ## Evaluation
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdSMIWLF3e-BN5QBVLFve5E4h3sBj-iEOwOMPsJnKrNpg1M5w/viewform?usp=sf_link) to open the valuation formula.
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdSMIWLF3e-BN5QBVLFve5E4h3sBj-iEOwOMPsJnKrNpg1M5w/viewform?usp=sf_link) to open the evaluation formula.
