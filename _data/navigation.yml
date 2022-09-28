@@ -1,0 +1,17 @@
+webworkshop:
+  - title: IMADA Web workshop
+    children:
+      - title: Welcome
+        url: "webworkshop"
+      - title: Web basics
+        url: "webworkshop/web-basics"
+      - title: HTML 101 - The building blocks
+        url: "webworkshop/html-101"
+      - title: CSS 101 - Doing it in style
+        url: "webworkshop/css-101"
+      - title: PHP 101 - Adding the back end
+        url: "webworkshop/php-101"
+      - title: JavaScript 101 - Adding functionality
+        url: "webworkshop/js-101"
+
+

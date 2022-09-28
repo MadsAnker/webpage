@@ -14,6 +14,7 @@ gem "jekyll", "~> 4.2.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-paginate"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -28,4 +29,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "webrick", "~> 1.7"
 
-gem "alembic-jekyll-theme", "~> 4.1.0"
+#gem "alembic-jekyll-theme", "~> 4.1.0"
+gem "minimal-mistakes-jekyll"

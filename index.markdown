@@ -1,6 +1,7 @@
 ---
 title: Home
-layout: page
+layout: home
 permalink: /
 ---
-Test
+This site was recently set up.
+There is nothing here yet.

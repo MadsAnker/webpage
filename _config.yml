@@ -38,24 +38,21 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-title: Some cool title
+title: IMADA
 email: madsn20@student.sdu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   This is a small webpage that I set up to document my adventures.
   So far there is not much here, but I plan to add stuff soon :).
   All projcts are available on GitHub.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://imada.dk" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  madsanker
 
 # Build settings
-theme: alembic-jekyll-theme
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
-
-navigation_header:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
+atom_feed:
+  hide: true
