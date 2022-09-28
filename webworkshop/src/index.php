@@ -70,7 +70,8 @@ if (isset($_GET["guess"])) {
 </head>
 <body>
     <div id="wrapper">
-        <div id="main-container">
+        <!-- The if of this div was previously main-container. It has now been corrected to container to match the CSS selector -->
+        <div id="container">
             <h2>Guess the number</h2>
             <form action="/">
                 <input name="guess" type="number" autofocus />
