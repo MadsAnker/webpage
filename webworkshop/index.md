@@ -60,8 +60,11 @@ The page will include the following features:
 The number does no change until the user guesses it.
 - Users can input a number and submit it as a guess.
 - When a user correctly guesses the number, they are awarded with an "internet point".
-- Users can ask for "hints" in the form of a statement like "the number is less than 5" or "the number is more than 5".
+- Users can ask for "hints" in the form of a statement like "the number is between x and y".
 
 We will be developing this in several steps, introducing important concepts of HTML, CSS, JavaScript and PHP along the way.
 We will start by implementing the user interface using HTML, then we will add some style to it using CSS.
 Then, we will implement the logic running on the server of our application using PHP and lastly implement the "hint" feature using PHP and JavaScript in conjunction.
+
+## Evaluation
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdSMIWLF3e-BN5QBVLFve5E4h3sBj-iEOwOMPsJnKrNpg1M5w/viewform?usp=sf_link) to open the valuation formula.
