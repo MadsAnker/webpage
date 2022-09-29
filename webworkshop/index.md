@@ -10,7 +10,7 @@ sidebar:
 ---
 *Edit: I would like to thank everybody who participated in the workshop. I hope you learned something and have a better idea of what is involved in web development.
 Unfortunately, we did not get time to complete the [evaluation](https://docs.google.com/forms/d/e/1FAIpQLSdSMIWLF3e-BN5QBVLFve5E4h3sBj-iEOwOMPsJnKrNpg1M5w/viewform?usp=sf_link).
-It's only 2 question and your feedback would mean a lot. Please consider filling it out if you have the time :).
+It's only 2 questions and your feedback would mean a lot. Please consider filling it out if you have the time :).
 A few mistakes on this site were pointed out during the workshop. I believe that I have now corrected all of them.*
 
 Welcome to the IMADA Web workshop!
